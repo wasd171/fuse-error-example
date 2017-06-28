@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/wasd171/fuse-error-example/issues"
   },
-  "homepage": "https://github.com/wasd171/fuse-error-example#readme"
+  "homepage": "https://github.com/wasd171/fuse-error-example#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-env": "^1.5.2",
+    "fuse-box": "^2.1.0",
+    "typescript": "^2.4.1"
+  }
 }
